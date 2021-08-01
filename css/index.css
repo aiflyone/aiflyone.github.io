@@ -3604,7 +3604,7 @@ li.categoryBar-list-item:nth-child(6) {
   background: url('https://cdn.jsdelivr.net/npm/akilar-candyassets/image/cover6.webp');
 }
 li.categoryBar-list-item:nth-child(1)>span::after {
-  content: '长篇小说连载' !important;
+  content: '杂记新闻' !important;
 }
 li.categoryBar-list-item:nth-child(2)>span::after {
   content: '杂谈教程' !important;
